@@ -1,8 +1,4 @@
-Hi 👋 My name is Long Phát
-==========================
-
-https://www.facebook.com/longphat1090
--------------------------------------
+<b style="font-size: 1.2rem; font-weight: bold;">Hi 👋 My name is Long Phát</b>
 
 <a href="https://www.github.com/longphat12" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/longphat12?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
